@@ -35,6 +35,6 @@ This project was created to practice and demonstrate front-end development skill
 
 ## 🚀 Live Demo
 
-
+https://pierejohn.github.io/DevFolio/
 
 ⭐ If you like this project, consider giving it a star!
